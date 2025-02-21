@@ -1,2 +1,11 @@
-# Smart-Diagnosis-AI-Based-Disease-Prediction
-Smart Diagnosis is an AI-powered system for predicting diseases based on symptoms. It utilizes machine learning to analyze user-input symptoms and provide potential diagnoses. The goal is to enhance early detection and healthcare accessibility with intelligent predictions.
+# Smart Diagnosis - AI Based System - Predicting Diseases from Symptoms 🏥💡
+
+## 📌 Overview
+Smart Diagnosis is a machine-learning-based system that predicts potential diseases based on user-input symptoms. It aims to assist individuals in understanding their health conditions and encourage timely medical consultations.
+
+## 🚀 Features
+- 🔍 **Symptom-based Disease Prediction** using ML models
+- 📊 **User-friendly Interface** for easy symptom input
+- 📚 **Comprehensive Disease Database** for accurate predictions
+- ⚡ **Fast and Efficient Processing**
+
